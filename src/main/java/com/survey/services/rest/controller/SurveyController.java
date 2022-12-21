@@ -23,7 +23,7 @@ import com.survey.services.rest.service.SurveyService;
 import io.swagger.annotations.Api;
 
 @RestController
-@RequestMapping("/survey")
+@RequestMapping("/survey-services")
 @Api(
         value = "/survey",
         produces = "application/json")
